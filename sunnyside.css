@@ -250,6 +250,13 @@ nav {
   .nav-links {
     width: 60%;
   }
+  .pp {
+    position: relative;
+    top: 100px;
+  }
+  .egg-down {
+    height: 23rem;
+  }
 }
 @media screen and (max-width: 768px) {
   body {
